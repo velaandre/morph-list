@@ -1,0 +1,44 @@
+nombre" : " Lista de tokens de Bridge " ,
+   "logoURI" : " https://Morph.network/logo/bridge.png " ,
+   "palabras clave" : [
+     " Morph " ,
+     " puente " ,
+     " token "
+  ],
+  "tags" : {
+     "stablecoin" : {
+       "name" : " stablecoin " ,
+       "description" : " Tokens que están vinculados a un activo externo, por ejemplo, el dólar estadounidense "
+    },
+    "ethereum" : {
+       "nombre" : " ethereum " ,
+       "descripción" : " Activo vinculado desde ethereum "
+    }
+  },
+  "marca de tiempo" : " 2024-08-01T08:49:46Z " ,
+   "tokens" : [
+    {
+      "chainId" : " 900 " ,
+       "address" : " La dirección de tu token L1 " ,
+       "symbol" : " El símbolo de tu token L1 " ,
+       "name" : " El nombre de tu token L1 " ,
+       "decimals" : 18 ,
+       "gatewayAddress" : " La dirección de la puerta de enlace del token, predeterminada es L1StandardERC20Gateway " ,
+       "gatewayName" : " El nombre de la puerta de enlace del token, predeterminado es L1StandardERC20Gateway " ,
+       "logoURI" : " https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/Your_logo_name.svg "
+    },
+    {
+      "chainId" : " 53077 " ,
+       "address" : " mainnet/0xB8c77482e45F1F44dE1745F52C74426C631bDD52" ,
+       "symbol" : " bnb" ,
+       "name" : " bnb/sol " ,
+       "decimals" : 18 ,
+       "gatewayAddress" : " La dirección de la puerta de enlace del token, predeterminada es L2StandardERC20Gateway " ,
+       "gatewayName" : " El nombre de la puerta de enlace del token, predeterminado es L2StandardERC20Gateway " ,
+       "logoURI" : " https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/Your_logo_name.svg "
+    }
+  ],
+  "versión" : {
+     "principal" : 0 ,
+     "secundaria" : 0 ,
+     "parche" : 0
